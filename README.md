@@ -22,11 +22,7 @@ I'm proficient at:
 - **Versionning**: Git, SVN, Perforce
 - **Game engine features**: 
   - Rendering
-  -  AI (Machine learning, UtilitySystem, BT, state machine...)
-  -  online architecture
-  -  Physic
-  -  Architecture (ECS, entity based, ECSG...)
-  -  GUI
+
  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muyanshouji&show_icons=true&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=muyanshouji&show_icons=true&hide_border=true)
