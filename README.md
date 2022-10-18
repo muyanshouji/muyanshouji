@@ -32,7 +32,7 @@ I'm proficient at:
 ![](https://github-readme-stats.vercel.app/api?username=muyanshouji&show_icons=true&hide_border=true)
 
 ## 💼 Experience
-
+<--
 I am currently working at **Ubisoft Paris Mobile** as an assistant renderer for a mobile game. <br />
 I also worked at Eversim to improve the rendering features of their game engine. <br />
 And before ? I was a **nurse** 💉<br />
@@ -43,3 +43,5 @@ And before ? I was a **nurse** 💉<br />
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <!-- ➡️ [More ...](https://renardjojo.github.io/) -->
+-->
+
