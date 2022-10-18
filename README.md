@@ -3,7 +3,7 @@
 # Hi there ! I'm muyan 🦊
 
 [![Blog Badge](https://img.shields.io/badge/blog-慕言手记-blue)](https://muyanshouji.github.io/)
-https://leetcode-badge.haozibi.dev/v1cn/{mr-j001}.svg
+https://leetcode-badge.mr-j001.dev/v1cn/{mr-j001}.svg
 
 <!---
 [![Twitter Badge](https://img.shields.io/badge/-@Jonathan%20Six-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/renardjojo "Follow on Twitter")
