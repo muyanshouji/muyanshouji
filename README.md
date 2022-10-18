@@ -4,7 +4,7 @@
 
 [![Blog Badge](https://img.shields.io/badge/blog-慕言手记-blue)](https://muyanshouji.github.io/)
 
-[![](https://leetcode-badge.haozibi.dev/v1cn/mr-j001.svg)](https://leetcode-cn.com/mr-j001) [![](https://leetcode-badge.haozibi.dev/v1cn/ranking/haozibi.svg)](https://leetcode-cn.com/haozibi) [![](https://leetcode-badge.haozibi.dev/v1cn/solved/haozibi.svg)](https://leetcode-cn.com/haozibi) [![](https://leetcode-badge.haozibi.dev/v1cn/solved-rate/haozibi.svg)](https://leetcode-cn.com/haozibi) [![](https://leetcode-badge.haozibi.dev/v1cn/accepted/haozibi.svg)](https://leetcode-cn.com/haozibi) [![](https://leetcode-badge.haozibi.dev/v1cn/accepted-rate/haozibi.svg)](https://leetcode-cn.com/haozibi)
+[![](https://leetcode-badge.haozibi.dev/v1cn/{mr-j001}.svg)](https://leetcode-cn.com/mr-j001) [![](https://leetcode-badge.haozibi.dev/v1cn/ranking/haozibi.svg)](https://leetcode-cn.com/haozibi) [![](https://leetcode-badge.haozibi.dev/v1cn/solved/haozibi.svg)](https://leetcode-cn.com/haozibi) [![](https://leetcode-badge.haozibi.dev/v1cn/solved-rate/haozibi.svg)](https://leetcode-cn.com/haozibi) [![](https://leetcode-badge.haozibi.dev/v1cn/accepted/haozibi.svg)](https://leetcode-cn.com/haozibi) [![](https://leetcode-badge.haozibi.dev/v1cn/accepted-rate/haozibi.svg)](https://leetcode-cn.com/haozibi)
 
 
 <!---
