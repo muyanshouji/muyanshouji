@@ -3,7 +3,9 @@
 # Hi there ! I'm muyan 🦊
 
 [![Blog Badge](https://img.shields.io/badge/blog-慕言手记-blue)](https://muyanshouji.github.io/)
-https://leetcode-badge.mr-j001.dev/v1cn/{mr-j001}.svg
+
+[![](https://leetcode-badge.haozibi.dev/v1cn/haozibi.svg)](https://leetcode-cn.com/haozibi) [![](https://leetcode-badge.haozibi.dev/v1cn/ranking/haozibi.svg)](https://leetcode-cn.com/haozibi) [![](https://leetcode-badge.haozibi.dev/v1cn/solved/haozibi.svg)](https://leetcode-cn.com/haozibi) [![](https://leetcode-badge.haozibi.dev/v1cn/solved-rate/haozibi.svg)](https://leetcode-cn.com/haozibi) [![](https://leetcode-badge.haozibi.dev/v1cn/accepted/haozibi.svg)](https://leetcode-cn.com/haozibi) [![](https://leetcode-badge.haozibi.dev/v1cn/accepted-rate/haozibi.svg)](https://leetcode-cn.com/haozibi)
+
 
 <!---
 [![Twitter Badge](https://img.shields.io/badge/-@Jonathan%20Six-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/renardjojo "Follow on Twitter")
