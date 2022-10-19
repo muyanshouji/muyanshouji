@@ -8,8 +8,7 @@
 [![Leetcode Badge](https://leetcode-badge.haozibi.dev/v1cn/mr-j001.svg)](https://leetcode.cn/u/mr-j001)
 [![Leetcode Badge](https://leetcode-badge.haozibi.dev/v1cn/accepted-rate/mr-j001.svg)](https://leetcode.cn/u/mr-j001)
 
-(https://img.shields.io/badge/123-455-blue.svg)
-[![](https://img.shields.io/badge/123-456-blue)]
+![](https://img.shields.io/badge/123-456-blue)
 [![Blog Badge](https://img.shields.io/badge/123-456-blue)](https://muyanshouji.github.io/)
 
 
