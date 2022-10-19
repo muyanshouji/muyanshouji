@@ -4,13 +4,7 @@
 
 [![Blog Badge](https://img.shields.io/badge/blog-慕言手记-blue)](https://muyanshouji.github.io/)
 
-
-
-<!---
-[![Twitter Badge](https://img.shields.io/badge/-@Jonathan%20Six-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/renardjojo "Follow on Twitter")
-[![mail Badge](https://img.shields.io/badge/-j.six@student.isartdigital.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:j.six@student.isartdigital.com "Connect via Email")
--->
-
+https://leetcode-badge.haozibi.dev/v1cn/{mr-j001}.svg
 
 
 ## ⚡️ Skills
