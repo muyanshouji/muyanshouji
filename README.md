@@ -16,13 +16,8 @@
 I'm proficient at:
 
 - **Languages**: Java
-- **Game engine**: Unity, Unreal engine 4
-- **Tools**: Vs, Rider, Vscode, RenderDoc
-- **Shader**: GLSL, HLSL, ShaderLab (unity)
-- **Rendering API**: OpenGL ES, OpenGL 4.6, DirectX (notion)
-- **Versionning**: Git, SVN, Perforce
-- **Game engine features**: 
-  - Rendering
+- **Tools**: Idea, Vscode, Maven
+- **Versionning**: Git, SVN
 
  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muyanshouji&show_icons=true&hide_border=true)
