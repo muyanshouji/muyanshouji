@@ -5,7 +5,7 @@
 [![Blog Badge](https://img.shields.io/badge/blog-慕言手记-blue)](https://muyanshouji.github.io/)
 
 
-![](https://leetcode-badge.haozibi.dev/v1cn/mr-j001.svg)
+![Leetcode Badge](https://leetcode-badge.haozibi.dev/v1cn/mr-j001.svg)
 
 
 ## ⚡️ Skills
