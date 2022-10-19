@@ -8,10 +8,6 @@
 [![Leetcode Badge](https://leetcode-badge.haozibi.dev/v1cn/mr-j001.svg)](https://leetcode.cn/u/mr-j001)
 [![Leetcode Badge](https://leetcode-badge.haozibi.dev/v1cn/accepted-rate/mr-j001.svg)](https://leetcode.cn/u/mr-j001)
 
-![Leetcode](https://img.shields.io/badge/Leetcode-Mrj001-blue)
-[![Blog Badge](https://img.shields.io/badge/123-456-blue)](https://muyanshouji.github.io/)
-
-
 
 
 ## ⚡️ Skills
