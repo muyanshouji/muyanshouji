@@ -1,7 +1,7 @@
 
 # Hi there ! I'm muyan 🦊
 
-[![Blog Badge](https://img.shields.io/badge/blog-慕言手记-blue)](https://muyanshouji.github.io/)<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=muyanshouji&theme=xcode" /> </div>
+[![Blog Badge](https://img.shields.io/badge/blog-慕言手记-blue)](https://muyanshouji.github.io/)
 
 
 [![Leetcode Badge](https://leetcode-badge.haozibi.dev/v1cn/mr-j001.svg)](https://leetcode.cn/u/mr-j001)
@@ -25,3 +25,7 @@ I'm proficient at:
 
 ## 💼 Experience
 
+
+
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=muyanshouji&theme=xcode" /> </div>
