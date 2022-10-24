@@ -28,4 +28,4 @@ I'm proficient at:
 
 
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=muyanshouji&theme=xcode" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=muyanshouji&theme=vue" /> </div>
