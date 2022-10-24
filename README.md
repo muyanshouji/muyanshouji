@@ -1,7 +1,7 @@
 
 # Hi there ! I'm muyan 🦊
 
-[![Blog Badge](https://img.shields.io/badge/blog-慕言手记-blue)](https://muyanshouji.github.io/)<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=muyanshouji" /> </div>
+[![Blog Badge](https://img.shields.io/badge/blog-慕言手记-blue)](https://muyanshouji.github.io/)<div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=muyanshouji" /> </div>
 
 
 [![Leetcode Badge](https://leetcode-badge.haozibi.dev/v1cn/mr-j001.svg)](https://leetcode.cn/u/mr-j001)
