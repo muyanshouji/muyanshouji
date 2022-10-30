@@ -21,9 +21,6 @@ I'm proficient at:
 - **Tools**: Idea, Vscode, Maven
 - **Versionning**: Git, SVN
 
-
-[![Leetcode Badge](https://leetcode-badge.haozibi.dev/v1cn/chart/solved/mr-j001.svg?day=30)](https://leetcode.cn/u/mr-j001)
-
  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muyanshouji&show_icons=true&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=muyanshouji&show_icons=true&hide_border=true)
