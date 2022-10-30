@@ -22,7 +22,7 @@ I'm proficient at:
 - **Versionning**: Git, SVN
 
 
-[![Leetcode Badge](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/mr-j001.svg?type=past-year&color=yellow)](https://leetcode.cn/u/mr-j001)
+[![Leetcode Badge](https://leetcode-badge.haozibi.dev/v1cn/chart/solved/mr-j001.svg)](https://leetcode.cn/u/mr-j001)
 
  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muyanshouji&show_icons=true&hide_border=true)
