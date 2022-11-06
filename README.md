@@ -9,10 +9,8 @@
 [![Leetcode Badge](https://leetcode-badge.haozibi.dev/v1cn/ranking/mr-j001.svg)](https://leetcode.cn/u/mr-j001)
 
 
-[![Leetcode Badge](https://leetcode-badge.haozibi.dev/v1cn/solved/mr-j001.svg)](https://leetcode.cn/u/mr-j001)
-
-[![Leetcode Badge](https://leetcode-badge.haozibi.dev/v1cn/solved/zhouhhh.svg)](https://leetcode.cn/u/mr-j001)
-
+[![Leetcode Badge](https://leetcode-badge.haozibi.dev/v1cn/solved/mr-j001.svg)](https://leetcode.cn/u/mr-j001)<br>
+[![Leetcode Badge](https://leetcode-badge.haozibi.dev/v1cn/solved/zhouhhh.svg)](https://leetcode.cn/u/mr-j001)<br>
 [![Leetcode Badge](https://leetcode-badge.haozibi.dev/v1cn/solved/qing-chun-10.svg)](https://leetcode.cn/u/mr-j001)
 
 
